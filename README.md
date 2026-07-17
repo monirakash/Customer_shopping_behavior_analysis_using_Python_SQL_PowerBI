@@ -84,6 +84,7 @@ The SQL script demonstrates:
 
 
 ## 📊 Power BI Dashboard
+<img width="1482" height="726" alt="image" src="https://github.com/user-attachments/assets/6649ac56-6621-4ed3-977a-2e6b49bb65cd" />
 
 The project includes an interactive Power BI dashboard (`customer_behavior_analysis.pbix`) for business intelligence and executive reporting.
 
